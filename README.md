@@ -1,7 +1,7 @@
-# Recipes List
+# Landing Page
 
 ## Links
-- [Try Recipes List here!](https://javicavi.github.io/landing-page/)
+- [Try Landing Page here!](https://javicavi.github.io/landing-page/)
 
 - [Link to the Assignment](https://www.theodinproject.com/lessons/foundations-landing-page)
 
